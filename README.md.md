@@ -34,4 +34,4 @@ This repository includes two end-to-end machine learning projects developed as p
 ## 👨‍💻 Author
 
 **Shivam Kumar**  
-ML Project Submission · July 2025
+ML Project Submission · June 2025
